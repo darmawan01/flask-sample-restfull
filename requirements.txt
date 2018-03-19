@@ -1,0 +1,12 @@
+alembic
+Flask
+Flask-Alembic
+Flask-JWT-Extended
+Flask-Migrate
+Flask-RESTful
+Flask-SQLAlchemy
+Jinja2
+PyMySQL
+SQLAlchemy
+Werkzeug
+flask_script
